@@ -1,0 +1,63 @@
+/*
+* @Author: Administrator
+* @Date:   2017-06-03 11:58:07
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-07-20 16:19:56
+*/
+
+.aside{
+	width:200px;
+	height: 100%;
+	margin-left:16px;
+	background: #fff;
+	color: #2e2e2e;
+}
+.aside .boxbgcolor{
+	width:200px;
+	font-size:14px;
+}
+.aside .tab-content{
+	padding:10px 15px 0;
+
+}
+
+.aside .public_list,.aside .public_btn{
+	border: 1px dotted rgb(221,221,221);
+    padding: 15px 0;
+    margin-top: 15px;
+}
+
+.aside .public_list{
+	overflow: auto;
+	height:600px;
+}
+
+.info{
+	position: absolute;
+    background-color: #fff;
+    top: 0px;
+    /* top: 34px; */
+    bottom: 0;
+    left: 232px;
+    right: 16px;
+}
+
+.info .tab-content{
+	padding:10px 15px 0;
+
+}
+
+.info .e-input{
+	width:360px;
+}
+
+.info .list-group-item{
+	border:0;
+}
+
+/* .info .panel .form_tips{
+	background: #ccc;
+	width: 200px;
+	height: 34px;
+} */
+
